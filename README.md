@@ -1,5 +1,10 @@
 # encryptdemo
 
+## 参考资源
+* https://pub.dev/packages/pointycastle
+* https://pub.dev/packages/crypton
+* https://pub.dev/packages/encrypt
+
 A new Flutter application.
 
 ## Getting Started
