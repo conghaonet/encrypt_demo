@@ -85,6 +85,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "4.0.1"
+  fast_gbk:
+    dependency: "direct main"
+    description:
+      name: fast_gbk
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.1.2+1"
   flutter:
     dependency: "direct main"
     description: flutter
